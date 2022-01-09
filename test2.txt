@@ -1,1 +1,5 @@
-hello new Branch
+1. hello new Branch
+2. Merge from NewBranch
+3. Welcome to Main Branch
+
+Note!! Careful Merging
